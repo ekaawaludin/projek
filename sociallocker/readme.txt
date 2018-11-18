@@ -6,8 +6,8 @@ Installation:
 
 ***Before </head>***
 
-<link href='https://www.dropbox.com/s/j8u0px1qszixxwl/TricksTantraSCL.css?dl=1' rel='stylesheet' type='text/css'/>
-<script src='https://www.dropbox.com/s/tskmt978ku8qb7g/TricksTantraSCL.js?dl=1' type='text/javascript'/>
+<link href='https://cdn.staticaly.com/gh/ekaawaludin/projek/fb66769e/sociallocker/SocialLocker.css' rel='stylesheet' type='text/css'/>
+<script src='https://cdn.staticaly.com/gh/ekaawaludin/projek/fb66769e/sociallocker/SocialLocker.js' type='text/javascript'/>
 <script type='text/javascript'>
 //<![CDATA[
 $(function(){
