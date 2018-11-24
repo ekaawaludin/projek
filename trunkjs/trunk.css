@@ -1,6 +1,5 @@
 .container {
 	overflow: hidden;
-	background-color: #000;
 
 /*  Prevents Flickering  */
 	-webkit-backface-visibility: hidden;
